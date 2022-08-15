@@ -28,6 +28,11 @@ We need to have sufficient modifications of this file to demonstrate changes bet
  
 ## Conclusion
 
+
+## How To Contribute
+
+Please fork this repository and then issue Pull Requests for review.
+
 ## Copyright
 
 2014 Git.Training.
