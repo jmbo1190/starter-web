@@ -27,3 +27,7 @@ We need to have sufficient modifications of this file to demonstrate changes bet
  * remote repository
  
 ## Conclusion
+
+## Copyright
+
+2014 Git.Training.
