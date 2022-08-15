@@ -16,6 +16,14 @@ Following tutorial video [Git Complete](https://subscription.packtpub.com/video/
 
 ## Results
 
+Hopefully matching expectations.
+
 ## Discussion
 
+We need to have sufficient modifications of this file to demonstrate changes between:
+ * working directory
+ * staging area
+ * local repository
+ * remote repository
+ 
 ## Conclusion
